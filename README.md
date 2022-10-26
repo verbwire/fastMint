@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="verbwire" src="resources/83105-speedy-rocket.gif"/>
+    <img alt="verbwire" src="resources/rocketLauncher_.gif"/>
 </div>
 
 # fastMint
