@@ -22,25 +22,25 @@ This simple minting app was built using the Verbwire API. The app lets you mint 
 ### Minting from a metadata file
 1. To see the program working you can test with this sample metadatafile: https://ipfs.io/ipfs/bafyreia3gktjytjez7vgj4wnshdthsagh4lz2tgib4in2xiirbibziga6e/metadata.json
 
-2. You can create your own metadatafile very easily by using the Verbwire endpoint, *Upload local file as metadata to IPFS*, [HERE](https://docs.verbwire.com/reference/post_nft-store-metadatafromimage), right on the verbwire website. Simply upload your file and you'll get a metadata .json link returned.
+2. You can create your own metadatafile very easily by using the Verbwire endpoint, *Upload local file as metadata to IPFS*, [HERE](https://docs.verbwire.com/reference/post_nft-store-metadatafromimage). Simply upload your file and you'll get a metadata .json link returned.
 
 <div align="center">
-    <img alt="whaleWatcherOutput" src="resources/sample_output_simple_nft_sales_data_app.jpg"/>
+    <img alt="metaDataFileImg" src="resources/upload_file_as_metadata_to_ipfs.jpg"/>
 </div>
 
 ### Showing where to input your API Key, as well as changing parameters
 <div align="center">
-    <img alt="inputApiKeyHere" src="resources/code_snippet_nft_sales_data_.jpg"/>
+    <img alt="inputApiKeyHere" src="resources/input_API_key.jpg"/>
 </div>
 
 ### screenshots showing the app
 ### Mint from metadata file
 <div align="center">
-    <img alt="inputApiKeyHere" src="resources/code_snippet_nft_sales_data_.jpg"/>
+    <img alt="mintFromMetadata" src="resources/fastMint_from_metadata_screenshot.jpg"/>
 </div>
 
 ### Mint from image file
 <div align="center">
-    <img alt="inputApiKeyHere" src="resources/code_snippet_nft_sales_data_.jpg"/>
+    <img alt="mintFromImage" src="resources/fastMint_from_image_screenshot.jpg"/>
 </div>
 
