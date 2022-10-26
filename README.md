@@ -28,18 +28,19 @@ This simple minting app was built using the Verbwire API. The app lets you mint 
     <img alt="metaDataFileImg" src="resources/upload_file_as_metadata_to_ipfs.jpg"/>
 </div>
 
-### Showing where to input your API Key, as well as changing parameters
+### Showing where to input your API Key
 <div align="center">
     <img alt="inputApiKeyHere" src="resources/input_API_key.jpg"/>
 </div>
 
-### screenshots showing the app
-### Mint from metadata file
+### Screenshots of the app
+1. Mint from metadata file
 <div align="center">
     <img alt="mintFromMetadata" src="resources/fastMint_from_metadata_screenshot.jpg"/>
 </div>
 
-### Mint from image file
+
+2. Mint from image file
 <div align="center">
     <img alt="mintFromImage" src="resources/fastMint_from_image_screenshot.jpg"/>
 </div>
