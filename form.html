@@ -9,10 +9,10 @@
   <body>
     <div class="container">
       <h2>FASTMINT - Mint from image</h2>
-      <form action="/image" method="POST" >
+      <form action="/image" method="POST" enctype="multipart/form-data" >
         <div class="form-group mb-3">
           <label>Image</label>
-          <input type="text" class="form-control" placeholder="Input image file path (example: C:\yourFile.jpeg)" name="Image">
+          <input type="file" class="form-control" placeholder="Input image file path (example: C:\yourFile.jpeg)" name="filePath">
         </div> 
 		
         <div class="form-group mb-3">
