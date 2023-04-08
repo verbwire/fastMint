@@ -1,7 +1,7 @@
 const express = require('express')
 var parseUrl = require('body-parser')
 
-const API_KEY = 'YOUR API KEY GOES HERE';
+const API_KEY = 'sk_live_5d7ac625-998d-4d0e-976c-0f8d6205d1b4';
 const app = express()
 let encodeUrl = parseUrl.urlencoded({ extended: false })
 
